@@ -31,6 +31,9 @@ Proyek ini murni menggunakan teknologi web fundamental (Vanilla) tanpa *framewor
 
 ---
 
+<img width="846" height="758" alt="image" src="https://github.com/user-attachments/assets/0793223d-15ba-4da8-9cb2-dfe465f9d1e4" />
+<img width="956" height="591" alt="image" src="https://github.com/user-attachments/assets/2e3f24e0-3601-4333-a00f-2887dea3ed76" />
+<img width="1822" height="932" alt="image" src="https://github.com/user-attachments/assets/9fbf02ee-39b2-4618-a3c9-d2932ecd68f4" />
 ##  Struktur Berkas
 
 ```text
@@ -39,7 +42,4 @@ Proyek ini murni menggunakan teknologi web fundamental (Vanilla) tanpa *framewor
 ├──  style.css     # Tata letak, warna, tipografi, dan tema gelap/terang
 └──  script.js     # Knowledge Base (Fakta & Rules) dan Mesin Inferensi
 
-<img width="846" height="758" alt="image" src="https://github.com/user-attachments/assets/0793223d-15ba-4da8-9cb2-dfe465f9d1e4" />
-<img width="956" height="591" alt="image" src="https://github.com/user-attachments/assets/2e3f24e0-3601-4333-a00f-2887dea3ed76" />
-<img width="1822" height="932" alt="image" src="https://github.com/user-attachments/assets/9fbf02ee-39b2-4618-a3c9-d2932ecd68f4" />
 
